@@ -19,7 +19,7 @@
 前往本專案的 [Releases 頁面](https://github.com/appy002255/Rust-Gxrto-Forge/releases/latest) 下載最新版本：
 
 ### 方式一：安裝版（推薦）
-1. 下載 `GXTRO-Forge-Setup-v<版本>-win64.exe`。<img width="960" height="720" alt="FORGE" src="https://github.com/user-attachments/assets/fa532ba9-b35a-46ab-8659-0facb32635fa" />
+1. 下載 `GXTRO-Forge-Setup-v<版本>-win64.exe`。<img width="960" height="720" alt="FORGE"
 
 2. 執行安裝精靈，依指示完成安裝（預設會建立桌面捷徑，並註冊 `.gxtro` 專案檔雙擊關聯）。
 
@@ -58,6 +58,6 @@
 
 ### 5. 匯出成品
 - 透過頂部選單 **「檔案 → 匯出影片...」** 選擇輸出路徑，軟體會自動為檔名加上 `_gxtro` 後綴並進行編碼輸出。
-
 ---
 
+<img width="960" height="720" alt="FORGE" src="https://github.com/user-attachments/assets/85b28d74-3230-423b-b3db-581524eb9a3d" />
