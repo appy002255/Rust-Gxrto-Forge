@@ -19,7 +19,8 @@
 前往本專案的 [Releases 頁面](https://github.com/appy002255/Rust-Gxrto-Forge/releases/latest) 下載最新版本：
 
 ### 方式一：安裝版（推薦）
-1. 下載 `GXTRO-Forge-Setup-v<版本>-win64.exe`。
+1. 下載 `GXTRO-Forge-Setup-v<版本>-win64.exe`。<img width="960" height="720" alt="FORGE" src="https://github.com/user-attachments/assets/fa532ba9-b35a-46ab-8659-0facb32635fa" />
+
 2. 執行安裝精靈，依指示完成安裝（預設會建立桌面捷徑，並註冊 `.gxtro` 專案檔雙擊關聯）。
 
 ### 方式二：免安裝隨身版
